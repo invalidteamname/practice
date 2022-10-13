@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class coba3 {
+public class ZigZag {
 
     public static List<List<Integer>> listPermutations(List<Integer> list) {
 
